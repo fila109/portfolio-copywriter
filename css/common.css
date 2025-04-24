@@ -6,6 +6,7 @@
 .button {
   text-align: center;
   padding: 10px 32px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 1.5; /* 27/18 */
   /*background-color: #ff9903;*/
